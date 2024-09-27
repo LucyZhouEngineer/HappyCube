@@ -1,0 +1,7 @@
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/
+
+GADApplicationIdentifier = 
+BannerAdUnitID = 
+InterstitialAdID = 
+AppOpenAdID = 
